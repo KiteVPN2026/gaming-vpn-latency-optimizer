@@ -37,7 +37,7 @@ If you want to stabilize your ping, protect your home network from DDoS attacks,
 
 #### Gear Up with Kite VPN
 Optimize your gaming setup today:
-- **Official Website**: [KiteVPN](http://kitevip.vip)
+- **Official Website**: [KiteVPN](https://kitevip.vip?f=github)
 - Compatible with iOS, Android, macOS, and Windows.
 
 ---
@@ -75,7 +75,7 @@ Optimize your gaming setup today:
 
 #### 立即武装您的网络
 优化您的游戏连接，开启极速竞技：
-- **官方网站**：[KiteVPN](http://kitevip.vip)
+- **官方网站**：[KiteVPN](https://kitevip.vip?f=github)
 - 完美支持 iOS、Android、macOS 和 Windows。
 
 ---
@@ -113,5 +113,5 @@ Optimize your gaming setup today:
 
 #### Подготовьтесь к победе с Kite VPN
 Настройте свое сетевое подключение для игр прямо сейчас:
-- **Наш сайт**: [KiteVPN](http://kitevip.vip)
+- **Наш сайт**: [KiteVPN](https://kitevip.vip?f=github)
 - Нативные приложения для iOS, Android, macOS и Windows.
